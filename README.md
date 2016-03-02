@@ -28,7 +28,7 @@ Score: filename
 
 ## Data
 
-- Robot Toy Dataset [excerpts copied from Wikipedia](https://en.wikipedia.org/wiki/Robot)
+- Robot Toy Dataset [(excerpts copied from Wikipedia)](https://en.wikipedia.org/wiki/Robot)
 
 ## Acknowledgement
 
